@@ -1,0 +1,69 @@
+```gitignore
+# dependencies
+node_modules/
+
+# build
+dist/
+build/
+coverage/
+.out/
+
+# logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# env
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# typescript
+*.tsbuildinfo
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# cache
+.cache/
+.temp/
+.tmp/
+
+# prisma
+prisma/dev.db
+prisma/dev.db-journal
+
+# turbo
+.turbo/
+
+# next
+.next/
+
+# vite
+vite.svg
+
+# uploads
+uploads/
+tmp/
+
+# generated
+generated/
+
+# test
+coverage/
+
+# docker
+*.pid
+
+# misc
+*.local
+```
