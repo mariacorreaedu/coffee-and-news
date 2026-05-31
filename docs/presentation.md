@@ -1,11 +1,18 @@
-#### Stacks
+#### Funções
 
+***
 
+* [ ] Cadastro de usuário com gmail
+* [ ] Listar principais noticias
+* [ ] Tela inicial com menus de noticias por tipo
+* [ ] Salvar noticias
 
+#### Stacksck
 
+***
 
-TypeScript
+**TypeScript**
 
-Postgres
+**Postgres**
 
-Knex
+**Knex**
