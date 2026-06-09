@@ -6,8 +6,16 @@
 * [ ] Listar principais noticias
 * [ ] Tela inicial com menus de noticias por tipo
 * [ ] Salvar noticias
+* [ ] IA
+  * [ ] Lembrar noticiar&#x20;
 
-#### Stacksck
+
+
+
+
+
+
+#### Stacks
 
 ***
 
@@ -16,3 +24,9 @@
 **Postgres**
 
 **Knex**
+
+**Vue.js - Quasar**
+
+Subapase
+
+IA router
